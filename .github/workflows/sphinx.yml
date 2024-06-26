@@ -16,7 +16,7 @@ jobs:
     - name: Install dependencies
       run: |
         python3 -m pip install --upgrade pip
-        pip install sphinx myst_parser
+        pip install . sphinx myst_parser
     - name: Build HTML
       run: |
         cd docs
