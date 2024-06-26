@@ -1,0 +1,9 @@
+=======
+rescale
+=======
+
+.. automodule:: rescale.rescale 
+
+
+
+
